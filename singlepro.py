@@ -1,3 +1,5 @@
+#single evaluation
+
 import time 
 
 def basic_func(x):	
